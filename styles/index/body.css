@@ -1,0 +1,52 @@
+.hero-section {
+    margin-top: 50px;
+    display: flex;
+    font-family: 'DynaPuff', cursive;
+}
+
+.hero-section .column {
+    width: 40%;
+    padding-left: 10%;
+}
+
+.hero-section .column-image {
+    width: 60%;
+        text-align: center;
+    align-self: center;
+}
+
+.hero-section .message {
+    text-align: left;
+}
+
+.hero-section .message-1 {
+    font-size: 60px;
+    font-weight: 700;
+    line-height: normal;
+    text-align: left;
+    color: #ff6122;
+}
+
+.hero-section .message-2 {
+       font-size: 25px;
+    line-height: normal;
+    font-weight: 400;
+    color: #222;
+}
+
+
+.hero-section .btn-hero button {
+    padding: 5px 25px;
+    font-size: 16px;
+    line-height: 30px;
+    border-radius: 6px;
+    margin: 3px 5px;
+    color: #fff;
+    background-color: #ff6122;
+    border-color: transparent;
+}
+
+.hero-section .picture {
+    width: 400px;
+    height: 400px;
+}
